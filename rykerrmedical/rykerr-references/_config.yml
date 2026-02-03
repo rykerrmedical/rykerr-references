@@ -1,0 +1,12 @@
+title: Rykerr Medical References
+description: Medical literature and resource references
+url: "https://references.rykerrmedical.com"
+baseurl: ""
+
+# Optional: if you want better meta tags
+plugins:
+  - jekyll-seo-tag
+
+# Optional: choose a theme
+# You can remove this if you add your own _layouts/default.html
+theme: minima
