@@ -1,51 +1,43 @@
-# Reference Pages for references.rykerrmedical.com
+# Clean Reference Pages
 
-These pages provide a better UX for accessing medical references, offering both original and archived versions.
+## What's Different
 
-## Features
-
-- **Two viewing options**: Original source or Archive.org backup
-- **Embedded viewing**: View content within your site using iframes
-- **External links**: Open in new tab for full experience
-- **Responsive design**: Works on mobile and desktop
+- No embedded CSS - uses your site's styles
+- No headers/titles - just the iframe and controls
+- Original source loads by default
+- Clean control bar with 3 options:
+  * Original Link (new tab)
+  * Archive Link (new tab)
+  * View Archive in Frame (button)
 
 ## Installation
 
-1. **Copy all .md files** to your Jekyll repository
+1. **Copy all .md files** to your `vent-book-v1/` folder (or wherever you want)
 
-2. **Ensure you have a layout** called `default` in `_layouts/default.html` that these pages can use. If you want a custom layout for reference pages, create `_layouts/reference.html` and update the layout in each file.
+2. **Add CSS to your main stylesheet** (e.g., `assets/css/main.css`):
+   Copy the contents of `reference-styles.css` into your main CSS file
 
-3. **Customize styling** (optional):
-   - The CSS is embedded in each page
-   - You can move it to your main stylesheet
-   - Adjust colors to match your brand
+3. **Commit and push**:
+   ```bash
+   cd ~/rykerrmedical/rykerr-references
+   # Delete old files
+   rm -rf vent-book-v1/*.md
+   # Copy new files
+   cp ~/path/to/clean_reference_pages/*.md vent-book-v1/
+   # Add CSS to assets/css/main.css or style.css
+   git add .
+   git commit -m "Update reference pages with clean layout"
+   git push
+   ```
 
-4. **Commit and push** to GitHub
+4. **Wait for GitHub Pages to rebuild** (2-3 minutes)
 
-## How It Works
+## Features
 
-Each page:
-1. Shows two cards with options to view original or archived version
-2. Provides buttons to open in new tab or view embedded
-3. Uses iframe to display content within your site
-4. Automatically generates Archive.org URLs
+- Loads original source immediately in iframe
+- Control bar at top for switching views
+- Uses all your site's existing styles
+- Minimal, clean design
+- Works with your existing navigation/header/footer
 
-## Customization
-
-### Change Layout
-Edit the `layout:` field in each .md file's front matter
-
-### Modify Styling
-The CSS is inline in each file - you can:
-- Move it to your main stylesheet
-- Create a separate reference.css file
-- Customize colors, spacing, etc.
-
-### Add More Options
-You could add:
-- Google Scholar search link
-- Citation export
-- Related references
-- Comments section
-
-Total references: 200
+Total pages: 200
