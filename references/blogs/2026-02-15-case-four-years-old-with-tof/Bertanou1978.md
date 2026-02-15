@@ -10,11 +10,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://pmc.ncbi.nlm.nih.gov/articles/PMC7807827/"></iframe>
+  <iframe id="ref-frame" src="http://www.pismin.com/10.1016/0002-9149(78)90941-4"></iframe>
 </div>
-
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'http://www.pismin.com/10.1016/0002-9149(78)90941-4';
-}
-</script>
