@@ -1,0 +1,9 @@
+title: References - Rykerr Medical LLC
+description: Reference pages for Rykerr Medical publications
+url: "https://references.rykerrmedical.com"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
