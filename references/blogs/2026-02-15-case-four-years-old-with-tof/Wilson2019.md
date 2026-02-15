@@ -10,11 +10,11 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://pmc.ncbi.nlm.nih.gov/articles/PMC7807827/"></iframe>
+  <iframe id="ref-frame" src="https://web.archive.org/web/https://pmc.ncbi.nlm.nih.gov/articles/PMC7807827/"></iframe>
 </div>
 
 <script>
 function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/https://pmc.ncbi.nlm.nih.gov/articles/PMC7807827/';
+  document.getElementById('ref-frame').src = 'https://pmc.ncbi.nlm.nih.gov/articles/PMC7807827/';
 }
 </script>
