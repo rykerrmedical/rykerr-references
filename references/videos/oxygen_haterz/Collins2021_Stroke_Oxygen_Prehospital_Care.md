@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.scientificarchives.com/article/stroke-oxygen-and-prehospital-care-a-commentary-on-current-treatments-and-opportunities-for-improvement"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Collins2021_Stroke_Oxygen_Prehospital_Care.pdf"></iframe>
 </div>

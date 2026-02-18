@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1269581/full"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Afzal2023_From_Imbalance_to_Impairment.pdf"></iframe>
 </div>

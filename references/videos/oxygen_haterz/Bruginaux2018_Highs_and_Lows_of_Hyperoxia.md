@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://journals.physiology.org/doi/full/10.1152/ajpregu.00165.2017"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Bruginaux2018_Highs_and_Lows_of_Hyperoxia.pdf"></iframe>
 </div>

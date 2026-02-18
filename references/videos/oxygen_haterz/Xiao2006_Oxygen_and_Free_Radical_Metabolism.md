@@ -10,5 +10,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://https://sci-hub.ru/10.1080/15438620600651355"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Xiao2006_Oxygen_and_Free_Radical_Metabolism.pdf"></iframe>
 </div>

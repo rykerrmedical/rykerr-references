@@ -10,5 +10,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.ahajournals.org/doi/epub/10.1161/JAHA.125.041825"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Niu2025_Normobaric_Hyperoxia_Stroke.pdf"></iframe>
 </div>

@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://airwayjedi.com/2016/01/09/dont-withhold-oxygen-from-that-co2-retainer/"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Whitten2016_Dont_Withold_Oxygen.pdf"></iframe>
 </div>

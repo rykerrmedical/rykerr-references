@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://pmc.ncbi.nlm.nih.gov/articles/PMC12592647/"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Wang2025_Low_Perioperative_FiO2.pdf"></iframe>
 </div>

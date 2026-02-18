@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.mdpi.com/2076-3921/12/4/895"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Chavda2023_Antioxidants_Stroke.pdf"></iframe>
 </div>

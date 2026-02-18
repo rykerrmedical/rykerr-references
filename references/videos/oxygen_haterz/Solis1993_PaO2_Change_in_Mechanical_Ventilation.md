@@ -10,5 +10,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://sci-hub.red/10.1378/chest.103.2.554"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Solis1993_PaO2_Change_in_Mechanical_Ventilation.pdf"></iframe>
 </div>

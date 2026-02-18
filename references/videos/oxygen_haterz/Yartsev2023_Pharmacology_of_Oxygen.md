@@ -9,6 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-310/pharmacology-oxygen
-"></iframe>
+  <iframe id="ref-frame" src="https://ia600606.us.archive.org/32/items/oxygen-haterz-references/Yartsev2023_Pharmacology_of_Oxygen.pdf"></iframe>
 </div>

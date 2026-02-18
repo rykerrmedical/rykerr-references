@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://pmc.ncbi.nlm.nih.gov/articles/PMC3740273/"></iframe>
+  <iframe id="ref-frame" src="https://ia600606.us.archive.org/32/items/oxygen-haterz-references/Hartnett2014_Oxygen_Retinopathy.pdf"></iframe>
 </div>

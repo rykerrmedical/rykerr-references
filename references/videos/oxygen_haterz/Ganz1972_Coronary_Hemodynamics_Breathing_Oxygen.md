@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.ahajournals.org/doi/abs/10.1161/01.cir.45.4.763"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Ganz1972_Coronary_Hemodynamics_Breathing_Oxygen.pdf"></iframe>
 </div>

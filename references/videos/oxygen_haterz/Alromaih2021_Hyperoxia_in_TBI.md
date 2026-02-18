@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.remedypublications.com/open-access/the-effect-of-hyperoxia-in-traumatic-brain-injury-patients-in-6769.pdf"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Alromaih2021_Hyperoxia_in_TBI.pdf"></iframe>
 </div>

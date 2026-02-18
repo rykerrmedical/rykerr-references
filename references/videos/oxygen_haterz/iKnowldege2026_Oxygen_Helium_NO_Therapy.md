@@ -9,6 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://clinicalgate.com/oxygen-helium-and-nitric-oxide-therapy/
-"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/iKnowldege2026_Oxygen_Helium_NO_Therapy.pdf"></iframe>
 </div>

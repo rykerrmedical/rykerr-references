@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.ncbi.nlm.nih.gov/books/NBK299195/"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Toklu2015_Oxidative_Stress_and_More.pdf"></iframe>
 </div>

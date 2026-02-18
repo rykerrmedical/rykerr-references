@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://onlinelibrary.wiley.com/doi/10.1111/acem.12411"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Spaite2014_EPIC.pdf"></iframe>
 </div>

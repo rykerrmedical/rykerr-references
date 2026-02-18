@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://journals.sagepub.com/doi/10.1038/jcbfm.2012.93"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Xu2012_Hypoxia_Hyperoxia_CBF.pdf"></iframe>
 </div>

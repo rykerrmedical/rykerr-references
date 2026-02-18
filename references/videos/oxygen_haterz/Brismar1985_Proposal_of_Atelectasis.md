@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://journals.lww.com/anesthesiology/citation/1985/04000/pulmonary_densities_during_anesthesia_with.9.aspx"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Brismar1982_Proposal_of_Atelectasis.pdf"></iframe>
 </div>

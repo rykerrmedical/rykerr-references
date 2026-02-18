@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://journals.sagepub.com/doi/10.1177/0310057X9502300606"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Joyce1995_Absorption_Atelectasis.pdf"></iframe>
 </div>

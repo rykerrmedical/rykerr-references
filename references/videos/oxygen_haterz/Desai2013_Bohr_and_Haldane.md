@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.khanacademy.org/test-prep/mcat/organ-systems/hematologic-system/v/bohr-effect-vs-haldane-effect"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/details/oxygen-haterz-references/Video_Kahn_Bohr_Haldane.mp4"></iframe>
 </div>

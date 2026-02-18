@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://wms.org/magazine/magazine/1463/2024-Altitude-Summary/default.aspx"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Rodway2025_AMS.pdf"></iframe>
 </div>

@@ -10,5 +10,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://sci-hub.red/10.1097/00132586-198204000-00002"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Gold1981_Arterial_Oxyegnation_5_and_30_Minutes.pdf"></iframe>
 </div>

@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://wms.org/magazine/magazine/1586/Oxygen-and-Hydration/default.aspx"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Rodriguez2025_Oxygen_and_Hydration.pdf"></iframe>
 </div>

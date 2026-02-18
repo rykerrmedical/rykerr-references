@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://pmc.ncbi.nlm.nih.gov/articles/PMC4869427/"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Taher2016_Normobaric_Oxygen_in_TBI.pdf"></iframe>
 </div>

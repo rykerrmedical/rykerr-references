@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.foamfrat.com/post/hypoxic-drive-fact-or-fiction"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Good2021_Hypoxic_Drive.pdf"></iframe>
 </div>

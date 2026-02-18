@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://journals.physiology.org/doi/full/10.1152/japplphysiol.00057.2019"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Ogoh2019_Resp_System_Cerebral_Bloodflow.pdf"></iframe>
 </div>
