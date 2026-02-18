@@ -1,5 +1,5 @@
 ---
-permalink: /DundeeChest2009_Retaining_CO2_2of_2.html
+permalink: /DundeeChest2009_Retaining_CO2_2_of_2.html
 layout: default
 ---
 
