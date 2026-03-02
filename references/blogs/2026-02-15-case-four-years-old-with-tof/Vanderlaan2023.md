@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://web.archive.org/web/https://pmc.ncbi.nlm.nih.gov/articles/PMC10755770/"></iframe>
+  <iframe id="ref-frame" src="https://ia601403.us.archive.org/15/items/files-for-blogs/Vanderlaan2023.pdf"></iframe>
 </div>
