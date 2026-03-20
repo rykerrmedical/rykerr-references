@@ -628,15 +628,27 @@ body.high-contrast .nav-links .submenu a:hover {
 }
 
 
-
+/* === Reference page iframe responsive fix === */
 .ref-frame-container {
   width: 100%;
   height: 85vh;
   min-height: 600px;
+  overflow: hidden;
 }
 
 .ref-frame-container iframe {
   width: 100%;
   height: 100%;
   border: none;
+}
+
+/* Remove padding squeeze on reference pages */
+@media (max-width: 768px) {
+  .homepage:has(.ref-frame-container) {
+    padding: 0.5rem;
+  }
+
+  .ref-frame-container {
+    min-height: 70vh;
+  }
 }
