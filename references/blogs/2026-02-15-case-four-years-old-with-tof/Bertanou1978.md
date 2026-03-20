@@ -10,5 +10,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://ia601403.us.archive.org/15/items/files-for-blogs/Betranou1978.pdf"></iframe>
+  <iframe id="ref-frame" src="https://archive.org/embed/files-for-blogs/Betranou1978.pdf"></iframe>
 </div>
