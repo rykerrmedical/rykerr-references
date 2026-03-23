@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://docs.google.com/gview?url=hhttps://ia601403.us.archive.org/15/items/files-for-blogs/Zhang2024_DM_RV_Dysfunction.pdf&embedded=true"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia601403.us.archive.org/15/items/files-for-blogs/Zhang2024_DM_RV_Dysfunction.pdf&embedded=true"></iframe>
 </div>
