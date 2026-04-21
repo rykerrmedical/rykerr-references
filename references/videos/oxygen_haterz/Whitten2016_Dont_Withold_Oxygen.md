@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Whitten2016_Dont_Withold_Oxygen.pdf"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia600606.us.archive.org/32/items/oxygen-haterz-references/Whitten2016_Dont_Withold_Oxygen.pdf&embedded=true"></iframe>
 </div>

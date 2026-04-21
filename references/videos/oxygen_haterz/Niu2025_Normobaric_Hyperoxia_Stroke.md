@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://archive.org/download/oxygen-haterz-references/Niu2025_Normobaric_Hyperoxia_Stroke.pdf"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia600606.us.archive.org/32/items/oxygen-haterz-references/Niu2025_Normobaric_Hyperoxia_Stroke.pdf&embedded=true"></iframe>
 </div>
