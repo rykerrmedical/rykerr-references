@@ -5,16 +5,9 @@ layout: default
 
 <div class="ref-controls">
   <a href="http://www.emdocs.net/approach-tachypnea-ed-setting/" target="_blank" class="ref-link">Link to Original Website</a>
-  <a href="https://web.archive.org/web/http://www.emdocs.net/approach-tachypnea-ed-setting/" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
+  <a href="https://archive.org/download/vent-book-references/Alexander2016.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="http://www.emdocs.net/approach-tachypnea-ed-setting/"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Alexander2016.pdf&embedded=true"></iframe>
 </div>
-
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/http://www.emdocs.net/approach-tachypnea-ed-setting/';
-}
-</script>
