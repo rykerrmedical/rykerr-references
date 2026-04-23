@@ -5,16 +5,9 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://wikem.org/wiki/Lung_recruitment_maneuver" target="_blank" class="ref-link">Link to Original Website</a>
-  <a href="https://web.archive.org/web/https://wikem.org/wiki/Lung_recruitment_maneuver" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
+  <a href="https://archive.org/download/vent-book-references/Claire2019.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://wikem.org/wiki/Lung_recruitment_maneuver"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Claire2019.pdf&embedded=true"></iframe>
 </div>
-
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/https://wikem.org/wiki/Lung_recruitment_maneuver';
-}
-</script>

@@ -5,16 +5,9 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://www.rykerrmedical.com/criticalmed" target="_blank" class="ref-link">Link to Original Website</a>
-  <a href="https://web.archive.org/web/https://www.rykerrmedical.com/criticalmed" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
+  <a href="https://web.archive.org/web/https://www.critical-med.com/" target="_blank" class="ref-link">Link to Page on Archive.org</a>
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://www.rykerrmedical.com/criticalmed"></iframe>
+  <iframe id="ref-frame" src="https://web.archive.org/web/https://www.critical-med.com/"></iframe>
 </div>
-
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/https://www.rykerrmedical.com/criticalmed';
-}
-</script>

@@ -5,16 +5,12 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://www.youtube.com/watch?v=nq0xSUJJf-4" target="_blank" class="ref-link">Link to Original Website</a>
-  <a href="https://web.archive.org/web/https://www.youtube.com/watch?v=nq0xSUJJf-4" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
+  <a href="https://archive.org/download/vent-book-references/Foster2014.mp4" target="_blank" class="ref-link">View Video on Archive.org</a>
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://www.youtube.com/watch?v=nq0xSUJJf-4"></iframe>
+  <video id="ref-frame" controls style="width: 100%; height: 100%;">
+    <source src="https://ia903207.us.archive.org/28/items/vent-book-references/Foster2014.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
-
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/https://www.youtube.com/watch?v=nq0xSUJJf-4';
-}
-</script>

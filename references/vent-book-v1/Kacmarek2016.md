@@ -5,16 +5,9 @@ layout: default
 
 <div class="ref-controls">
   <a href="http://rc.rcjournal.com/content/61/6/854.full" target="_blank" class="ref-link">Link to Original Website</a>
-  <a href="https://web.archive.org/web/http://rc.rcjournal.com/content/61/6/854.full" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
+  <a href="https://archive.org/download/vent-book-references/Kacmarek2016.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="http://rc.rcjournal.com/content/61/6/854.full"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Kacmarek2016.pdf&embedded=true"></iframe>
 </div>
-
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/http://rc.rcjournal.com/content/61/6/854.full';
-}
-</script>

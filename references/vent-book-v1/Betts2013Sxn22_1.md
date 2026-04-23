@@ -1,5 +1,5 @@
 ---
-permalink: /Betts2013image.html
+permalink: /Betts2013Sxn22.1.html
 layout: default
 ---
 

@@ -4,17 +4,10 @@ layout: default
 ---
 
 <div class="ref-controls">
-  <a href="https://www.flightbridgeed.com/index.php/blogs/blogs-view/10-artcles/130-henry-s-law-fixing-hypoxia-1" target="_blank" class="ref-link">Link to Original Website</a>
-  <a href="https://web.archive.org/web/https://www.flightbridgeed.com/index.php/blogs/blogs-view/10-artcles/130-henry-s-law-fixing-hypoxia-1" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
+  <a href="https://www.flightbridgeed.com/index.php/blogs/blogs-view/10-artcles/130-henry-s-law-fixing-hypoxia-1" target="_blank" class="ref-link">Link to Original Website (no longer available)</a>
+  <a href="https://www.linkedin.com/pulse/henrys-law-fixing-hypoxia-huh-eric-bauer-fp-c-ccp-c" target="_blank" class="ref-link">View Article on LinkedIn</a>
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://www.flightbridgeed.com/index.php/blogs/blogs-view/10-artcles/130-henry-s-law-fixing-hypoxia-1"></iframe>
+  <iframe id="ref-frame" src="https://www.linkedin.com/pulse/henrys-law-fixing-hypoxia-huh-eric-bauer-fp-c-ccp-c"></iframe>
 </div>
-
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/https://www.flightbridgeed.com/index.php/blogs/blogs-view/10-artcles/130-henry-s-law-fixing-hypoxia-1';
-}
-</script>
