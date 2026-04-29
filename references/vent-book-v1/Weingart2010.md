@@ -5,16 +5,17 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://emcrit.org/emcrit/vent-part-1/" target="_blank" class="ref-link">Link to Original Website</a>
-  <a href="https://web.archive.org/web/https://emcrit.org/emcrit/vent-part-1/" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
+  <a href="https://archive.org/download/vent-book-references/Weingart2010Part1Handout.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
+  <a href="https://archive.org/download/vent-book-references/Weingart2010Part1Audio.mp3" target="_blank" class="ref-link">Listen on Archive.org</a>
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://emcrit.org/emcrit/vent-part-1/"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Weingart2010Part1Handout.pdf&embedded=true"></iframe>
 </div>
 
-<script>
-function loadArchive() {
-  document.getElementById('ref-frame').src = 'https://web.archive.org/web/https://emcrit.org/emcrit/vent-part-1/';
-}
-</script>
+<div class="ref-frame-container">
+  <audio controls style="width: 100%;">
+    <source src="https://ia903207.us.archive.org/28/items/vent-book-references/Weingart2010Part1Audio.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+  </audio>
+</div>
