@@ -1,5 +1,5 @@
 ---
-permalink: /Elzari2019_Fascicular_Blocks.html
+permalink: /Elizari2019_Fascicular_Blocks.html
 layout: default
 ---
 
