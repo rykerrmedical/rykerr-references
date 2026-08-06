@@ -10,7 +10,7 @@ layout: default
 </div>
 
 <div class="ref-note">
-  This podcast episode is still live via the link above or on iTunes, but we've also got the audio here.
+  This podcast episode is still live via the link above, but we've also got the audio here.
 </div>
 
 <div class="ref-frame-container">

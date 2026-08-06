@@ -8,9 +8,12 @@ layout: default
   <a href="https://archive.org/download/vent-book-references/Weingart2016aAudio.mp3" target="_blank" class="ref-link">Listen on Archive.org</a>
 </div>
 
+<div class="ref-note">
+  This podcast episode is still live via the link above, but we've also got the audio here.
+</div>
+
 <div class="ref-frame-container">
   <audio id="ref-frame" controls style="width: 100%;">
     <source src="https://ia903207.us.archive.org/28/items/vent-book-references/Weingart2016aAudio.mp3" type="audio/mpeg">
-    Your browser does not support the audio tag.
   </audio>
 </div>

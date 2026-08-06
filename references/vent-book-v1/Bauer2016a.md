@@ -15,6 +15,5 @@ layout: default
 <div class="ref-frame-container">
   <audio id="ref-frame" controls style="width: 100%;">
     <source src="https://ia903207.us.archive.org/28/items/vent-book-references/Bauer2016a.mp3" type="audio/mpeg">
-    Your browser does not support the audio tag.
   </audio>
 </div>
