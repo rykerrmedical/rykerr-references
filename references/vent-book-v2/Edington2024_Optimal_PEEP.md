@@ -9,5 +9,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://docs.google.com/gview?url=hhttps://ia903207.us.archive.org/28/items/vent-book-references/Edington2024_Optimal_PEEP.pdf&embedded=true"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Edington2024_Optimal_PEEP.pdf&embedded=true"></iframe>
 </div>

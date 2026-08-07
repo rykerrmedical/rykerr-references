@@ -1,0 +1,14 @@
+---
+permalink: /Kilburn1966_Alkalosis_in_Mech_Ventilation.html
+layout: default
+---
+
+<div class="ref-controls">
+  <a href="https://www.acpjournals.org/doi/10.7326/0003-4819-65-5-977" target="_blank" class="ref-link">Link to Original Website</a>
+  
+  <a href="https://archive.org/download/vent-book-references/Kilburn1966_Alkalosis_in_Mech_Ventilation.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
+</div>
+
+<div class="ref-frame-container">
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Kilburn1966_Alkalosis_in_Mech_Ventilation.pdf&embedded=true"></iframe>
+</div>

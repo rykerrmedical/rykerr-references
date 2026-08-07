@@ -1,0 +1,13 @@
+---
+permalink: /Ramirez&Arellano2017_Dyssynchrony_Waveforms.html
+layout: default
+---
+
+<div class="ref-controls">
+  <a href="https://symbiosisonlinepublishing.com/palliative-medicine-care/palliative-medicine-care47.php" target="_blank" class="ref-link">Link to Original Website</a>
+  <a href="https://archive.org/download/vent-book-references/Ramirez%26Arellano2017_Dyssynchrony_Waveforms.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
+</div>
+
+<div class="ref-frame-container">
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Ramirez%26Arellano2017_Dyssynchrony_Waveforms.pdf&embedded=true"></iframe>
+</div>

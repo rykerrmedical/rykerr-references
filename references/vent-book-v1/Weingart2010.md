@@ -13,9 +13,12 @@ layout: default
   <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Weingart2010Part1Handout.pdf&embedded=true"></iframe>
 </div>
 
+<div class="ref-note">
+  This podcast episode is still live via the link above, but we've also got the audio here.
+</div>
+
 <div class="ref-frame-container">
   <audio controls style="width: 100%;">
     <source src="https://ia903207.us.archive.org/28/items/vent-book-references/Weingart2010Part1Audio.mp3" type="audio/mpeg">
-    Your browser does not support the audio tag.
   </audio>
 </div>
