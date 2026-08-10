@@ -1,0 +1,14 @@
+---
+permalink: /Tanimoto2023_IM_vs_SQ_Epinephrine.html
+layout: default
+---
+
+<div class="ref-controls">
+  <a href="https://www.annallergy.org/article/S1081-1206(22)01991-3/fulltext" target="_blank" class="ref-link">Link to Original Website</a>
+  
+  <a href="https://archive.org/download/vent-book-references/Tanimoto2023_IM_vs_SQ_Epinephrine.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
+</div>
+
+<div class="ref-frame-container">
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Tanimoto2023_IM_vs_SQ_Epinephrine.pdf&embedded=true"></iframe>
+</div>
