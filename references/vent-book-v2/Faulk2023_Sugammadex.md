@@ -1,5 +1,5 @@
 ---
-permalink: /Faulk2023_Sugammadex.pdf.html
+permalink: /Faulk2023_Sugammadex.html
 layout: default
 ---
 

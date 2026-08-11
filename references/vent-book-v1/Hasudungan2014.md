@@ -11,6 +11,5 @@ layout: default
 <div class="ref-frame-container">
   <video id="ref-frame" controls style="width: 100%; height: 100%;">
     <source src="https://ia903207.us.archive.org/28/items/vent-book-references/Hasudungan2014.mp4" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 </div>

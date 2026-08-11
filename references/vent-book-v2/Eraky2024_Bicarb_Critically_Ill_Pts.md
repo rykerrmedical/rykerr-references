@@ -1,0 +1,13 @@
+---
+permalink: /Eraky2024_Bicarb_Critically_Ill_Pts.html
+layout: default
+---
+
+<div class="ref-controls">
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11678678/" target="_blank" class="ref-link">Link to Original Website</a>
+  <a href="https://archive.org/download/vent-book-references/Eraky2024_Bicarb_Critically_Ill_Pts.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
+</div>
+
+<div class="ref-frame-container">
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Eraky2024_Bicarb_Critically_Ill_Pts.pdf&embedded=true"></iframe>
+</div>
