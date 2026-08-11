@@ -5,7 +5,6 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://pulmcast.com/podcast/use-of-sodium-bicarbonate-in-icu" target="_blank" class="ref-link">Link to Original Website</a>
-  
   <a href="https://archive.org/download/vent-book-references/RachelF2025_Bicarb_ICU.mp3" target="_blank" class="ref-link">Listen on Archive.org</a>
 </div>
 

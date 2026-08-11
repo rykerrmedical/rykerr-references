@@ -5,7 +5,6 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://ibccpodcast.libsyn.com/ibcc-episode-128-abg-vbg-and-pulse-oximetry" target="_blank" class="ref-link">Link to Original Website</a>
-  
   <a href="https://archive.org/download/vent-book-references/Farkas%26Thomas2023_ABG_VBG_PulseOx.mp3" target="_blank" class="ref-link">Listen on Archive.org</a>
 </div>
 

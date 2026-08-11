@@ -5,7 +5,6 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://pubmed.ncbi.nlm.nih.gov/37052073/" target="_blank" class="ref-link">Link to Paper (paywalled)</a>
-  
   <a href="https://icuresearch.nl/studies/provent-ped" target="_blank" class="ref-link">Link to the Study Homepage</a>
 </div>
 

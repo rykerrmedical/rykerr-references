@@ -5,7 +5,6 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://icuscenarios.com/episode-95-spontaneous-breathing-trials-with-martin-tobin/" target="_blank" class="ref-link">Link to Original Website</a>
-  
   <a href="https://archive.org/download/vent-book-references/ICUScenarios.com_SBT_with_Tobin.mp3" target="_blank" class="ref-link">Listen on Archive.org</a>
 </div>
 

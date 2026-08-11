@@ -5,8 +5,11 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-523/effects-positive-pressure-ventilation-cardiovascular-physiology" target="_blank" class="ref-link">Link to Original Website</a>
-  
   <a href="https://archive.org/download/vent-book-references/Yartsev2025_PPV_CV_Effects.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
+</div>
+
+<div class="ref-note">
+  If file does not load below, just do a hard refresh - Mac: cmd+shift/opt+R; PC: crtl+shift+R or ctrl+F5
 </div>
 
 <div class="ref-frame-container">

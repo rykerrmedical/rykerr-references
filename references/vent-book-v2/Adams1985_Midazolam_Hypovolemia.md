@@ -9,8 +9,7 @@ layout: default
 </div>
 
 <div class="ref-note">
-  If file does not load below, just do a hard refresh 
-  (Mac: cmd+shift/opt+R; PC: crtl+shift+R or ctrl+F5)
+  If file does not load below, just do a hard refresh - Mac: cmd+shift/opt+R; PC: crtl+shift+R or ctrl+F5
 </div>
 
 <div class="ref-frame-container">
