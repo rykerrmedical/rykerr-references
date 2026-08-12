@@ -13,5 +13,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia600601.us.archive.org/21/items/full_textbooks/Assisted%20Ventilation%20of%20the%20Neonate%20%28%20PDFDrive%20%29.pdf&embedded=true"></iframe>
+  <iframe id="ref-frame" src="https://ia600601.us.archive.org/21/items/full_textbooks/Assisted%20Ventilation%20of%20the%20Neonate%20%28%20PDFDrive%20%29.pdf"></iframe>
 </div>

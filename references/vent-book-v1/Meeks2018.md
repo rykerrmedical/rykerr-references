@@ -5,7 +5,6 @@ layout: default
 
 <div class="ref-controls">
   <a href="https://flightbridgeed.com/index.php/mindbodymedic-podcast/11-mindbodymedicpodcast/324-final-decision-commentary-on-volume-vs-pressure" target="_blank" class="ref-link">Link to Original Website</a>
-  
   <a href="https://archive.org/download/vent-book-references/Meeks2018.mp3" target="_blank" class="ref-link">Listen on Archive.org</a>
 </div>
 
