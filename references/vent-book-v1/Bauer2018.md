@@ -8,6 +8,10 @@ layout: default
   <a href="https://web.archive.org/web/20190526163203/https://flightbridgeed.com/index.php/bookstore" target="_blank" class="ref-link">Link to Page on Archive.org</a>
 </div>
 
+<div class="ref-note">
+  If page does not load below, just do a hard refresh - Mac: cmd+shift/opt+R; PC: crtl+shift+R or ctrl+F5
+</div>
+
 <div class="ref-frame-container">
   <iframe id="ref-frame" src="https://web.archive.org/web/20190526163203/https://flightbridgeed.com/index.php/bookstore"></iframe>
 </div>

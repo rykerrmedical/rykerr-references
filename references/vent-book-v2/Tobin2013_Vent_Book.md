@@ -13,5 +13,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia600601.us.archive.org/21/items/full_textbooks/Principles_and_Practice_of_Mechanical_Ventilation_3rd_Tobin.pdf&embedded=true"></iframe>
+  <iframe id="ref-frame" src="https://ia600601.us.archive.org/21/items/full_textbooks/Principles_and_Practice_of_Mechanical_Ventilation_3rd_Tobin.pdf"></iframe>
 </div>

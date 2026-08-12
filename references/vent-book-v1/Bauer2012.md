@@ -4,12 +4,12 @@ layout: default
 ---
 
 <div class="ref-controls">
-  <a href="https://www.flightbridgeed.com/index.php/the-flightbridgeed-podcast/2-flightbridgeed-podcast/13-ventilator-management-ems-part-1" target="_blank" class="ref-link">Link to Original Website</a>
+  <a href="https://share.transistor.fm/s/8b123a56" target="_blank" class="ref-link">Link to Original Website</a>
   <a href="https://archive.org/download/vent-book-references/Bauer2012%231.mp3" target="_blank" class="ref-link">Listen on Archive.org</a>
 </div>
 
 <div class="ref-note">
-  This podcast episode is no longer live, but we've got the audio here so you can take a listen.
+  This video is still live via the link above, but we've also got the file here.
 </div>
 
 <div class="ref-frame-container">
