@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="ref-note">
-  This is a three-part collection from RebelEM called "Ventilator Management in the EMS World."  Links to all are listed below:
+  This is a three-part collection from FlightBridgeED called "Ventilator Management in the EMS World."  Links to all are listed below:
   
   Ventilator Management in the EMS World - Part 1<br>[original page](https://share.transistor.fm/s/8b123a56)    [rykerrreference](https://references.rykerrmedical.com/Bauer2012.html)
   

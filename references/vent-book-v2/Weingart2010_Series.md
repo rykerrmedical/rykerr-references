@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="ref-note">
-  This is a two-part collection from RebelEM called "Dominating the Vent."  Links to all are listed below:
+  This is a two-part collection from EMCrit called "Dominating the Vent."  Links to all are listed below:
   
   Dominating the Vent Part 1<br>[original page](https://emcrit.org/emcrit/vent-part-1/)    [rykerrreference](https://references.rykerrmedical.com/Weingart2010.html)
   
