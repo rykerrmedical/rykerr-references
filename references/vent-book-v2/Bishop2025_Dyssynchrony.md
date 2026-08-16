@@ -8,7 +8,8 @@ layout: default
 </div>
 
 <div class="ref-note">
-  This videos are still live via the link above, but we've also got the files for each one here just in case that goes away someday:
+  These videos are still live via the link above, but we've also got the files for each one here just in case that goes away someday:
+  
   
   [Intro](https://archive.org/download/vent-book-references/Bishop2025_01_Intro.mp4)
   
