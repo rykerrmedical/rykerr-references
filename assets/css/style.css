@@ -13,7 +13,7 @@
 body {
   font-family: "Apple Symbols", sans-serif;
   background-color: #060608;
-  color: #747373;
+  color: #f2f2f2;
   margin: 0;
   padding: 0;
   line-height: 1.6;
@@ -27,13 +27,47 @@ p, li, span, div, main, section {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Black Ground', sans-serif;
-  color: #a31232;
+  color: #f2f2f2;
   text-align: left;
 }
 
+/* H1-H3 get the boxed treatment; h4-h6 stay plain text above. Links inside a
+   boxed heading (e.g. an "Airway Stuff"-style section title that's also a
+   link) still read fine because link color now always matches the
+   surrounding text color instead of carrying its own color. */
+h1, h2, h3 {
+  display: block;
+  background-color: #a31232;
+  color: #fff;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+}
+
+/* Blog index post list (index.md: <ul id="posts-list"><li><h3><a>...
+   Now that h3 renders as a block, the <li>'s default bullet marker sits
+   stranded to the left of the box instead of next to text. Scoped to this
+   one list so other bulleted lists on the site keep their markers. */
+#posts-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Give each post entry more breathing room, and indent the blurb/date line
+   (post-meta) under its boxed title instead of flush against the left edge */
+#posts-list li {
+  margin-bottom: 2.5rem;
+}
+
+#posts-list .post-meta {
+  margin-left: 1rem;
+}
+
 a {
-  color: #a31232;
+  color: #f2f2f2;
+  font-weight: bold;
   text-decoration: underline;
+  text-decoration-color: #747373;
 }
 
 /* === Navigation === */
@@ -53,7 +87,7 @@ nav {
 
 .nav-links a {
   font-family: 'Black Ground', sans-serif;
-  color: #a31232;
+  color: #f2f2f2;
   text-decoration: none !important;
   font-weight: bold;
   font-size: 1.1rem;
@@ -173,6 +207,31 @@ form button:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
+/* The featured-episode block is a light/white card regardless of theme, but
+   its text was inheriting the site-wide colors meant for the dark page
+   background (near-white), so the title/date/body copy/links were washing
+   out to invisible. Pin them to dark text here specifically. High Contrast
+   already forces black text globally via its own !important rules, so this
+   only changes anything in the Normal theme — exactly where it was broken. */
+.featured-episode {
+  color: #060608;
+}
+
+.featured-episode h1,
+.featured-episode h2,
+.featured-episode h3,
+.featured-episode h4,
+.featured-episode h5,
+.featured-episode h6 {
+  color: #060608;
+}
+
+.featured-episode a:not(.episode-button) {
+  color: #a31232;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 
 @media (max-width: 768px) {
   .episode-grid {
@@ -183,33 +242,57 @@ form button:hover {
 
 .episode-card {
   box-shadow: 0 0 12px rgba(163, 18, 50, 0.5);
+  /* Same story as .featured-episode: this card is a light surface in both
+     themes (it was never actually dark in Normal mode), but its text had
+     been set to the near-white color meant for the dark page background —
+     invisible white-on-white for the title and any other plain text here. */
+  color: #060608;
 }
 
 .episode-card:hover {
   /* hover styles removed - shadow always visible now */
 }
 
+/* Same gap as .featured-episode had: this card's own dark-text fix above
+   covers plain text via inheritance, but a plain <a> is more specific than
+   inherited color, so links inside a card were still picking up the
+   site-wide near-white link color and washing out on this light card.
+   Excludes .episode-button — that's a solid maroon-fill button that needs
+   to keep its white text, not the maroon-on-card link color. */
+.episode-card a:not(.episode-button) {
+  color: #a31232;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 /* === Podcast read more buttons === */
 .episode-card button {
-  color: #747373 !important;
+  background-color: #a31232 !important;
+  color: #fff !important;
+  border: none !important;
+  padding: 0.4rem 0.9rem !important;
+  border-radius: 6px !important;
   font-size: 0.85rem !important;
+  cursor: pointer;
 }
 
 body.high-contrast .episode-card button {
-  color: #000 !important;
+  background-color: #000 !important;
+  color: #fff !important;
 }
 
 /* === Episode buttons === */
 body.high-contrast .episode-button {
-  color: #000 !important;
-  border-color: #000 !important;
+  background-color: #000 !important;
+  color: #fff !important;
+  border: none !important;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.3) !important;
 }
 
 .episode-button {
-  background: none;
-  color: #747373;
-  border: 1px solid #747373;
+  background: #a31232;
+  color: #fff;
+  border: none;
   padding: 0.4rem 0.8rem;
   font-size: 0.85rem;
   border-radius: 6px;
@@ -279,7 +362,7 @@ nav.open .nav-links {
     font-size: 2rem;
     background: none;
     border: none;
-    color: #a31232;
+    color: #f2f2f2;
     cursor: pointer;
     margin-bottom: 0.5rem;
     align-self: flex-end; /* Align right */
@@ -373,7 +456,7 @@ label {
   display: inline-block;
   margin: 0 1rem;
   text-decoration: none;
-  color: #a31232;
+  color: #f2f2f2;
   font-weight: bold;
 }
 
@@ -470,9 +553,39 @@ body.high-contrast h6 {
   color: #000000 !important;
 }
 
+/* Same H1-H3 boxed treatment here, same as the dark theme — swapped so the
+   maroon banner is the primary (Normal) look and the gray box is the
+   alternate (High Contrast) look */
+body.high-contrast h1,
+body.high-contrast h2,
+body.high-contrast h3 {
+  background-color: #747373 !important;
+  color: #060608 !important;
+}
+
+/* Links no longer get their own color here — they match whatever text
+   they're in (body or heading, both black in this theme) and rely on the
+   bold + underline alone to read as a link. This also fixes headings that
+   are also links (e.g. "Airway Stuff"): before, this rule's color would
+   win the tie against the h1-h6 black rule since it comes later in the
+   file at equal specificity — matching the surrounding color removes the
+   tie entirely. */
 body.high-contrast a {
-  color: #0000EE !important;
+  color: #060608 !important;
+  font-weight: bold !important;
   text-decoration: underline;
+  text-decoration-color: #747373 !important;
+}
+
+/* A link that's also a boxed H1-H3 (e.g. "Airway Stuff") sits on the gray
+   box background above — same gray as the underline color, so it was
+   invisible against its own box. Switch the underline to match the box's
+   text color there instead, same idea as the maroon box in Normal theme
+   just needing a different accent color to stay visible. */
+body.high-contrast h1 a,
+body.high-contrast h2 a,
+body.high-contrast h3 a {
+  text-decoration-color: #060608 !important;
 }
 
 body.high-contrast .homepage,
@@ -536,7 +649,7 @@ body.high-contrast .featured-episode img {
 .nav-links .submenu a {
   font-size: 1rem;
   font-weight: normal;
-  color: #a31232;
+  color: #f2f2f2;
   text-decoration: none;
 }
 
@@ -581,7 +694,7 @@ body.high-contrast .featured-episode img {
   .nav-links .submenu a {
     font-size: 1rem;
     font-weight: normal;
-    color: #a31232;
+    color: #f2f2f2;
   }
 
   .nav-links .submenu a:hover {
@@ -628,27 +741,15 @@ body.high-contrast .nav-links .submenu a:hover {
 }
 
 
-/* === Reference page iframe responsive fix === */
+
 .ref-frame-container {
   width: 100%;
   height: 85vh;
   min-height: 600px;
-  overflow: hidden;
 }
 
 .ref-frame-container iframe {
   width: 100%;
   height: 100%;
   border: none;
-}
-
-/* Remove padding squeeze on reference pages */
-@media (max-width: 768px) {
-  .homepage:has(.ref-frame-container) {
-    padding: 0.5rem;
-  }
-
-  .ref-frame-container {
-    min-height: 70vh;
-  }
 }
