@@ -1,5 +1,5 @@
 ---
-permalink: /Mozer-Glassberg2025_Gaza_FInger_Thor_vs_CT.html
+permalink: /Mozer-Glassberg2025_Gaza_Finger_Thor_vs_CT.html
 layout: default
 ---
 

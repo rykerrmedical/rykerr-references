@@ -1,5 +1,5 @@
 ---
-permalink: /NunezSilveira2023_Reverse_Trigger.html
+permalink: /OpenEvidence_Rebound_Pulm_Htn.html
 layout: default
 ---
 
