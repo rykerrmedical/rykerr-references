@@ -13,5 +13,5 @@ layout: default
 </div>
 
 <div class="ref-frame-container">
-  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://https://ia903202.us.archive.org/4/items/neobougie-refs/VBM_iBougie.pdf&embedded=true"></iframe>
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903202.us.archive.org/4/items/neobougie-refs/VBM_iBougie.pdf&embedded=true"></iframe>
 </div>
