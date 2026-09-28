@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="ref-controls">
-  <a href="https://video.publications.aap.org/neovideos/detail/videos/pulmonary/video/6184440777001/endotracheal-tube-exchange-in-a-neonate-using-tube-exchanger" target="_blank" class="ref-link">Link to Original Video</a>
+  <a href="https://youtu.be/NBx4F10kYrI?si=vUcCMzASxi-L5AWx" target="_blank" class="ref-link">Link to Original Video</a>
   <a href="https://archive.org/download/neobougie-refs/Malusky2022_Neo_ETT_Exchange.mp4" target="_blank" class="ref-link">Watch on Archive.org</a>
 </div>
 
