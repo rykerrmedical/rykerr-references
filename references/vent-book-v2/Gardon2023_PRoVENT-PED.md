@@ -4,15 +4,14 @@ layout: default
 ---
 
 <div class="ref-controls">
-  <a href="https://pubmed.ncbi.nlm.nih.gov/37052073/" target="_blank" class="ref-link">Link to Paper (paywalled)</a>
-  <a href="https://icuresearch.nl/studies/provent-ped" target="_blank" class="ref-link">Link to the Study Homepage</a>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/37052073/" target="_blank" class="ref-link">Link to Original Website</a>
+  <a href="https://archive.org/download/vent-book-references/Gardon2023_PRoVENT-PED.pdf" target="_blank" class="ref-link">View PDF on Archive.org</a>
 </div>
 
 <div class="ref-note">
-  This is one of the rare cases in which we don't have access to the full paper and have cited findings based on other folks' discussions and what is available in currently-available study documents.
-  
-  Take a look at the links above and we'll update this page once we get access to the full thing.
-  
-  Also if you have access, [let us know](https://www.rykerrmedical.com/talk-to-us/) and we'll update this reference page!
+  If file does not load below, just do a hard refresh - Mac: cmd+shift/opt+R; PC: crtl+shift+R or ctrl+F5
 </div>
 
+<div class="ref-frame-container">
+  <iframe id="ref-frame" src="https://docs.google.com/gview?url=https://ia903207.us.archive.org/28/items/vent-book-references/Gardon2023_PRoVENT-PED.pdf&embedded=true"></iframe>
+</div>
